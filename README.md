@@ -25,9 +25,13 @@ Python
 
 # Gebruikte modules:
 Docx
+
 Docx2pdf
+
 Pandas
+
 RDW
+
 Tkinter
 
 # Screenshots:
